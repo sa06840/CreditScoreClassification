@@ -1,1 +1,3 @@
 # creditScoreClassification
+
+I conducted an in-depth analysis of how debt management, payment behavior, and demographic factors influence credit scores using a dataset of 12,500 customers. By implementing Principal Component Analysis (PCA) for feature engineering and K-Means clustering for customer segmentation, I was able to uncover insightful relationships and segment customers based on their credit behaviour. This project honed my skills in data preprocessing, dimensionality reduction, and clustering for predictive analysis.
